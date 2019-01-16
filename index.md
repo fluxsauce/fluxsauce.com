@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Jon Peck
+description: Jon Peck is a software engineering lead, author, and mentor.
 ---
 ## Introduction
 

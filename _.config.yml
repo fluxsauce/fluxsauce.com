@@ -1,5 +1,4 @@
 title: "FluxSauce"
-description: Jon Peck is a lead software engineer, author and mentor.
 lang: en-US
 
 markdown: kramdown
@@ -21,4 +20,3 @@ exclude:
 - .idea
 - Gemfile
 - Gemfile.lock
-- README.md
