@@ -1,0 +1,15 @@
+---
+permalink: site.webmanifest
+---
+
+{
+  "start_url": ".",
+  "description": "{{ site.description }}",
+  "lang": "{{ site.lang }}",
+  "background_color": "#{{ site.manifest_background_color }}",
+  "theme_color": "#{{ site.manifest_theme_color }}",
+  "name": "{{ site.title }}",
+  "short_name": "{{ site.title }}",
+  "display": "{{ site.manifest_display}}",
+  "dir": "{{ site.manifest_dir }}"
+}

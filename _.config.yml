@@ -1,0 +1,24 @@
+title: "FluxSauce"
+description: Jon Peck is a lead software engineer, author and mentor.
+lang: en-US
+
+markdown: kramdown
+
+manifest_display: standalone
+manifest_background_color: fff
+manifest_theme_color: fff
+manifest_dir: ltr
+
+url: https://fluxsauce.com
+
+permalink: date # how your URLs are built, see https://jekyllrb.com/docs/permalinks/#builtinpermalinkstyles
+
+timezone: America/Los_Angeles
+
+exclude:
+- .gitignore
+- CNAME
+- .idea
+- Gemfile
+- Gemfile.lock
+- README.md
