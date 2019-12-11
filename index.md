@@ -1,11 +1,11 @@
 ---
 layout: default
 title: About Jon Peck
-description: Jon Peck is a software engineering lead, author, and mentor.
+description: Jon Peck is a software architect, author, and mentor.
 ---
 ## Introduction
 
-My name is Jon Peck. I'm a software engineering lead, author, and mentor. I specialize in media publishing and eCommerce websites.
+My name is Jon Peck. I'm a software architect, author, and mentor. I specialize in media publishing and electronic commerce websites.
 
 ## Links
 
@@ -25,7 +25,7 @@ My name is Jon Peck. I'm a software engineering lead, author, and mentor. I spec
 Content I've authored or contribute to, but no longer actively participate in.
 
 * [drupal.org/u/fluxsauce](https://www.drupal.org/u/fluxsauce), my Drupal community profile.
-  * [Drupal Site Audit](https://drupal.org/project/site_audit), the project I'm best known for.
+  * [Drupal Site Audit](https://drupal.org/project/site_audit), the Drupal project I'm best known for.
 * [slideshare.net/FluxSauce](https://www.slideshare.net/FluxSauce/presentations), a selection of conference presentations I've given.
 * [Pantheon Academy](https://www.youtube.com/watch?v=UZgMQ7DIxo8&list=PL06Pxw-jVkN085OawfNr0m3ztnffkZSST), a video series I authored, edited and recorded.
 * [jonpeck.blogspot.com](https://jonpeck.blogspot.com/), a blog about open-source software.
@@ -35,6 +35,7 @@ Content I've authored or contribute to, but no longer actively participate in.
 
 Some projects I've contributed to.
 
+* [Null Confluence](https://nullconfluence.bandcamp.com); solo electronic work from 2019-
 * [Imager](http://www.imagermusic.com/); progressive rock band. Played synthesizers, backup vocals, and co-authored all songs from 2014-2018.
   * [Imager Live at the Stork in Oakland, CA](https://soundcloud.com/imager-music/imager-live-stork-oakland-ca-may-28-2016)
 * [Little Thin Dimes](https://littlethindimes.bandcamp.com/); Portuguese country / rockabilly. Played trumpet, organ, and co-authored all songs. Recorded EP and LP (unreleased).
@@ -43,6 +44,7 @@ Some projects I've contributed to.
 
 ## Miscellaneous
 
+* Father and partner.
 * I make homebrew beer.
 * I adopt and rescue dogs and cats.
 * I have been a supporter of the [Electronic Frontier Foundation](https://www.eff.org/) since 2012.
