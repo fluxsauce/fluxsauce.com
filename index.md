@@ -39,7 +39,7 @@ Some projects I've contributed to.
 * [Imager](http://www.imagermusic.com/); progressive rock band. Played synthesizers, backup vocals, and co-authored all songs from 2014-2018.
   * [Imager Live at the Stork in Oakland, CA](https://soundcloud.com/imager-music/imager-live-stork-oakland-ca-may-28-2016)
 * [Little Thin Dimes](https://littlethindimes.bandcamp.com/); Portuguese country / rockabilly. Played trumpet, organ, and co-authored all songs. Recorded EP and LP (unreleased).
-* [The Fucking Buckaroos](https://thefuckingbuckaroos.bandcamp.com/album/los-pinches-vaqueroos-puro-pinchi-pari); punk country. Played trumpet on an EP and for some live shows.
+* [The Buckaroos](https://thefuckingbuckaroos.bandcamp.com/album/los-pinches-vaqueroos-puro-pinchi-pari); punk country. Played trumpet on an EP and for some live shows.
 * [soundcloud.com/theconfluence](https://soundcloud.com/theconfluence), a collection of demos and older work as "Master jP"
 
 ## Miscellaneous
