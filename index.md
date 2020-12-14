@@ -24,8 +24,8 @@ Jon has composed soundtracks for video games, short films, trailers, and soundtr
 
 His traditional experience includes jazz and orchestral trumpet. He started formal piano instruction at age 5 and has accompanied churches and choirs, played in pit orchestras for musicals, organ in a punk country band, and synthesizers in a progressive rock group.
 
-* https://soundcloud.com/null-confluence/
-* https://null-confluence.bandcamp.com/
+* [soundcloud.com/null-confluence](https://soundcloud.com/null-confluence/)
+* [null-confluence.bandcamp.com](https://null-confluence.bandcamp.com/)
 
 ## Music
 
