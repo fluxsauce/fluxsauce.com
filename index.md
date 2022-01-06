@@ -1,24 +1,24 @@
 ---
 layout: default
 title: About Jon Peck
-description: Jon Peck is a software architect, author, mentor, and musician.
+description: Jon Peck is a director of software engineering, author, mentor, and musician.
 ---
 ## Introduction
 
-My name is Jon Peck. I'm a software architect, author, mentor, and musician. I specialize in media publishing and electronic commerce websites.
+My name is Jon Peck. I'm a director of software engineering, author, mentor, and musician. I specialize in media publishing and electronic commerce websites.
 
 ## Links
 
 * [github.com/fluxsauce](https://github.com/fluxsauce)
-* [linkedin.com/in/jonpeck](https://www.linkedin.com/in/jonpeck)
-* [lynda.com/jonpeck](https://lynda.com/jonpeck), my author page.
+* [linkedin.com/in/jonpeck/](https://www.linkedin.com/in/jonpeck)
+  * [linkedin.com/learning/instructors/jon-peck](https://www.linkedin.com/learning/instructors/jon-peck), my author page
 * [twitter.com/fluxsauce](https://twitter.com/fluxsauce)
 
 ## Null Confluence
 
 Null Confluence is the solo electronic music project by Jon Peck. Formed in 2019 in the San Francisco Bay Area, Null Confluence creates dark, introspective industrial-inspired techno and ambient.
 
-Jon is an experienced and organized senior software engineer, which facilitates collaborations and communication between creatives, developers and other stakeholders. Organized with a combination of running chats and GitHub-based project management and workflow, he rapidly incorporates feedback and iterates to meet client needs.
+Jon is an experienced and organized software engineer, which facilitates collaborations and communication between creatives, developers and other stakeholders. Organized with a combination of running chats and GitHub-based project management and workflow, he rapidly incorporates feedback and iterates to meet client needs.
 
 Jon has composed soundtracks for video games, short films, trailers, and soundtracks for almost 20 years.
 
@@ -56,6 +56,6 @@ Content I've authored or contribute to, but no longer actively participate in.
 ## Miscellaneous
 
 * Father and partner.
-* I make homebrew beer.
+* I make homebrew electronics.
 * I adopt and rescue dogs and cats.
 * I have been a supporter of the [Electronic Frontier Foundation](https://www.eff.org/) since 2012.
