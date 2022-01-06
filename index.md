@@ -18,7 +18,7 @@ My name is Jon Peck. I'm a software architect, author, mentor, and musician. I s
 
 Null Confluence is the solo electronic music project by Jon Peck. Formed in 2019 in the San Francisco Bay Area, Null Confluence creates dark, introspective industrial-inspired techno and ambient.
 
-Jon is an experienced and organized senior software engineer, which facilitates collaborations and communication between creatives, developers and other stakeholders. Organized with a combination of running chats and GithHub-based project management and workflow, he rapidly incorporates feedback and iterates to meet client needs.
+Jon is an experienced and organized senior software engineer, which facilitates collaborations and communication between creatives, developers and other stakeholders. Organized with a combination of running chats and GitHub-based project management and workflow, he rapidly incorporates feedback and iterates to meet client needs.
 
 Jon has composed soundtracks for video games, short films, trailers, and soundtracks for almost 20 years.
 
