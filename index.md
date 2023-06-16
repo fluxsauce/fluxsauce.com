@@ -1,28 +1,27 @@
 ---
 layout: default
 title: About Jon Peck
-description: Jon Peck is a director of software engineering, author, mentor, and musician.
+description: Jon Peck is a senior director of software engineering, author, mentor, and musician.
 ---
 ## Introduction
 
-My name is Jon Peck. I'm a director of software engineering, author, mentor, and musician. I specialize in media publishing and electronic commerce websites.
+My name is Jon Peck. I'm a senior director of software engineering, author, mentor, and musician. I specialize in media publishing and electronic commerce websites.
 
 ## Links
 
 * [github.com/fluxsauce](https://github.com/fluxsauce)
 * [linkedin.com/in/jonpeck/](https://www.linkedin.com/in/jonpeck)
   * [linkedin.com/learning/instructors/jon-peck](https://www.linkedin.com/learning/instructors/jon-peck), my author page
-* [twitter.com/fluxsauce](https://twitter.com/fluxsauce)
 
 ## Null Confluence
 
-Null Confluence is the solo electronic music project by Jon Peck. Formed in 2019 in the San Francisco Bay Area, Null Confluence creates dark, introspective industrial-inspired techno and ambient.
+Null Confluence is a solo electronic music project by Jon Peck. Formed in 2019 in the San Francisco Bay Area, Null Confluence creates dark, introspective industrial-inspired techno and ambient.
 
-Jon is an experienced and organized software engineer, which facilitates collaborations and communication between creatives, developers and other stakeholders. Organized with a combination of running chats and GitHub-based project management and workflow, he rapidly incorporates feedback and iterates to meet client needs.
+Jon is an experienced and organized software engineer who facilitates collaborations and communication between creatives, developers, and other stakeholders. Organized with a combination of running chats and GitHub-based project management and workflow, he rapidly incorporates feedback and iterates to meet client needs.
 
 Jon has composed soundtracks for video games, short films, trailers, and soundtracks for almost 20 years.
 
-His traditional experience includes jazz and orchestral trumpet. He started formal piano instruction at age 5 and has accompanied churches and choirs, played in pit orchestras for musicals, organ in a punk country band, and synthesizers in a progressive rock group.
+His traditional experience includes jazz and orchestral trumpet. He started formal piano instruction at age five and has accompanied churches and choirs, played in pit orchestras for musicals, the organ in a punk country band, and synthesizers in a progressive rock group.
 
 * [soundcloud.com/null-confluence](https://soundcloud.com/null-confluence/)
 * [fluxsauce.itch.io](https://fluxsauce.itch.io/)
@@ -30,9 +29,9 @@ His traditional experience includes jazz and orchestral trumpet. He started form
 
 ## Music
 
-* [Imager](http://www.imagermusic.com/); progressive rock band. Played synthesizers, backup vocals, and co-authored all songs from 2014-2018.
+* Imager; progressive rock band. Played synthesizers, sang backup vocals, and co-authored all songs from 2014-2018.
   * [Imager Live at the Stork in Oakland, CA](https://soundcloud.com/imager-music/imager-live-stork-oakland-ca-may-28-2016)
-* [Little Thin Dimes](https://littlethindimes.bandcamp.com/); Portuguese country / rockabilly. Played trumpet, organ, and co-authored all songs. Recorded EP and LP (unreleased).
+* [Little Thin Dimes](https://littlethindimes.bandcamp.com/); Portuguese country / rockabilly. Played trumpet and organ, and co-authored all songs. Recorded EP and LP (unreleased).
 * [The Buckaroos](https://thefuckingbuckaroos.bandcamp.com/album/los-pinches-vaqueroos-puro-pinchi-pari); punk country. Played trumpet on an EP and for some live shows.
 * [soundcloud.com/theconfluence](https://soundcloud.com/theconfluence), a collection of demos and older work as "Master jP"
 
@@ -44,7 +43,7 @@ His traditional experience includes jazz and orchestral trumpet. He started form
 
 ## Archive
 
-Content I've authored or contribute to, but no longer actively participate in.
+Content I've authored or contributed to but no longer actively participate in.
 
 * [drupal.org/u/fluxsauce](https://www.drupal.org/u/fluxsauce), my Drupal community profile.
   * [Drupal Site Audit](https://drupal.org/project/site_audit), the Drupal project I'm best known for.
@@ -58,4 +57,4 @@ Content I've authored or contribute to, but no longer actively participate in.
 * Father and partner.
 * I make homebrew electronics.
 * I adopt and rescue dogs and cats.
-* I have been a supporter of the [Electronic Frontier Foundation](https://www.eff.org/) since 2012.
+* I have supported the [Electronic Frontier Foundation](https://www.eff.org/) since 2012.
