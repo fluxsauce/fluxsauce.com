@@ -50,11 +50,12 @@ Content I've authored or contributed to but no longer actively participate in.
 * [slideshare.net/FluxSauce](https://www.slideshare.net/FluxSauce/presentations), a selection of conference presentations I've given.
 * [Pantheon Academy](https://www.youtube.com/watch?v=UZgMQ7DIxo8&list=PL06Pxw-jVkN085OawfNr0m3ztnffkZSST), a video series I authored, edited and recorded.
 * [jonpeck.blogspot.com](https://jonpeck.blogspot.com/), a blog about open-source software.
-* [Free Software Magazine](http://freesoftwaremagazine.com/authors/Jon%20Peck/), to which I contributed a number of articles.
+* [Free Software Magazine](http://freesoftwaremagazine.com/authors/Jon%20Peck/), to which I contributed several articles.
 
 ## Miscellaneous
 
 * Father and partner.
 * I make homebrew electronics.
+* I volunteer to repair bicycles with [R Community Bikes](https://www.rcommunitybikes.net/).
 * I adopt and rescue dogs and cats.
 * I have supported the [Electronic Frontier Foundation](https://www.eff.org/) since 2012.
